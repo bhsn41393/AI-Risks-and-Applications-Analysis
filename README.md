@@ -1,27 +1,30 @@
 # AI-Risks-and-Applications-Analysis
-# Employee Attrition & AI Trends Analysis
+# An end-to-end data analysis project exploring AI adoption trends, risk governance, and usage metrics using Python and Power BI.
+# AI Companion Dependency Analysis
 
 ## 📌 Project Overview
-This project provides an end-to-end data analysis workflow combining Python and Power BI to analyze HR employee attrition patterns and AI adoption trends. The goal is to transform raw data into actionable business insights and visual dashboards to support strategic decision-making.
+This project delivers a comprehensive analysis of user interaction patterns, psychological dependency, and usage metrics regarding AI companions. Using a combined workflow of Python for data manipulation and Power BI for interactive visualization, the project identifies key behavioral trends to support effective data governance and strategic decision-making.
 
 ---
 
 ## 🛠️ Tools & Technologies
-* **Python**: Data cleaning, handling missing values, and generating statistical charts using `Pandas`, `NumPy`, `Matplotlib`, and `Seaborn`.
-* **Power BI Desktop**: Custom dashboard visualization, interactive filters, theme customization, and formatting (transparency & shadows).
-* **Microsoft Excel**: Nested IF functions, initial data preparation, and tabular calculations.
+* **Python**: Data cleaning, missing value handling, and statistical analysis using `Pandas`, `NumPy`, `Matplotlib`, and `Seaborn`.
+* **Power BI Desktop**: Interactive dashboards, custom visual formatting, and key metric tracking.
+* **Microsoft Excel**: Data preparation, structured calculations, and initial analysis.
 
 ---
 
 ## 📁 Repository Structure
-* `ai_risk_analysis.py` - Python script for data processing and visualization.
-* `Employee_Attrition_Dashboard.pbix` - Interactive Power BI Desktop report.
-* `Employee_Attrition_Report.pdf` - PDF export of the dashboard for quick visual preview.
-* `dataset.csv` - The raw data used in the analysis.
+* `ai_risk_analysis.py` - Python script for data cleaning, processing, and visual exports.
+* `AI_Risks_Dashboard.pbix` - Native Power BI report file with interactive visuals.
+* `AI_Risks_Report.pdf` - PDF export of the dashboard for quick preview.
+* `ai_companion_dependency_dataset.csv` - The primary dataset used for the analysis.
 
 ---
 
-## 📊 Key Features & Insights
-1. **Data Cleaning**: Handled null values and standardized categorical metrics using Python.
-2. **Dynamic Dashboards**: Built interactive visual models in Power BI to track key HR and risk metrics.
-3. **Actionable Insights**: Identified critical drivers behind employee turnover and operational risks.
+## 📊 Key Features & Analysis
+1. **Data Cleaning & Wrangling**: Processed raw usage data and handled missing values using Python.
+2. **Behavioral Metrics & Risk Governance**: Categorized interaction patterns and identified key dependency indicators.
+3. **Interactive Visualization**: Designed dynamic Power BI layouts to monitor user trends and usage hours.
+
+
